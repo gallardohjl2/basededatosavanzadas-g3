@@ -1,3 +1,5 @@
+use northwind;
+
 -- Consultas Avanzadas
 select c.CategoryName As 'Nombre Categoria', 
 p.ProductName as 'Nombre Producto', 
